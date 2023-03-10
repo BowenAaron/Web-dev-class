@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aaron Bowen</title>
+</head>
+
+    <h1>All About Aaron</h1>
+    <img width="250px"
+        src="https://images.squarespace-cdn.com/content/v1/56cde58af699bb2bd4ea993a/1504449208055-K4A2OED62VOPGK2X2VUL/TBDATE_04_ApprovedSketch.jpeg"
+        alt="Cover art of my favourite book 'They Both Die at the End'">
+    <h2>Where I'm From:</h2>
+    <p>I was born and raised in Georgia and grew up in and around Lagrange. I've lived here my whole life and have not
+        ventured out from it too much. I did spend a few years in Alabama and I lived in Ohio for about a year and a
+        half.</p>
+    <h2>My Hobbies Include:</h2>
+    <p>When I was pretty young I enjoyed writing fiction. I wrote a 15 page story for my fourth grade class and I knew
+        then it was something I enjoyed. Another hobby of mine includes drawing. I got into drawing when I was in sixth
+        grade after a friend of mine had lent me a comic they had. As for now coding has been a big interest of mine but
+        I never knew the full knowledge of it. A friend of mine helped me code a bot for our discord and I've been
+        wanting to learn more about it.</p>
+    <h2>These are My Current Goals:</h2>
+    <p>I want to earn skills for a field of work that can help me find a job that can allow me to work anywhere in the
+        world. This is important to me because I want to be living in a different country in the next 5 years. It's been
+        a dream of mine to travel but traveling is not cheap. If I can travel and it not affect my work, then I would
+        consider that goal fulfilled.</p>
+
+    <h1 style="font-family: 'Courier New', Courier, monospace;">Even more about me</h1>
+    <div style="background-color: gray;">
+        <p>My favorite color is
+            <span style="color:aquamarine">aquamarine</span>
+        </p>
+        <p>One of my pet's name is <strong>Lilo</strong></p>
+        <p>My <sup>Highest</sup> point was <b>solving an issue I had with a project</b></p>
+        <p>my <sub>Lowest</sub> point was <i>when I couldn't find the answer to another project</i></p>
+        <p>I <del>dont</del> know how to change the background color to my code</p>
+        <p>Can i get a Yee-<em>HAW!?</em></p>
+    </div>
+    </body>
+
+</html>
